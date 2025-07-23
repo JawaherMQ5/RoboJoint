@@ -32,7 +32,7 @@ You can interact with the model directly on Onshape via the link below:
 ### 📁 STL File
 [Download STL Export](https://github.com/JawaherMQ5/RoboJoint/blob/main/Part%20Studio%201%20-%20Part%201.stl) - 3D printable version of the joint.
 ### 📁 SOLIDWORKS File
-[Download SOLIDWORKS Export](https://github.com/JawaherMQ5/RoboJoint/blob/main/Part%20Studio%201%20-%20Part%201.sldprt) - Visual preview of the part in SolidWorks interface.
+[Download SOLIDWORKS Export](https://github.com/JawaherMQ5/RoboJoint/blob/main/Part%20Studio%201%20-%20Part%201%20(1).sldprt) - Visual preview of the part in SolidWorks interface.
 
 ## 📁 Files
 You can find the CAD files and model screenshots in this repository:
